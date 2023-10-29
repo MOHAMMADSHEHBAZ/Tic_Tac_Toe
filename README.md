@@ -2,7 +2,8 @@
 
 ![Screenshot (37)](https://github.com/MOHAMMADSHEHBAZ/tic_tac_toe/assets/121683891/3cdb44e4-4a66-40bb-bdb4-2c72fd8917eb)
 
-![Screenshot (38)](https://github.com/MOHAMMADSHEHBAZ/tic_tac_toe/assets/121683891/edc88a8f-4da8-4fa1-93f7-b27398ca4128)
+![Screenshot (38)](https://github.com/MOHAMMADSHEHBAZ/tic_tac_toe/assets/121683891/b3378bfa-6245-4eca-a55f-265fe584ac99)
+
 
 
 ### Show Your Support
